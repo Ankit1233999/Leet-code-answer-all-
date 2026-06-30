@@ -73,4 +73,12 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0547-number-of-provinces) |
+## Array
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0860-lemonade-change) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
